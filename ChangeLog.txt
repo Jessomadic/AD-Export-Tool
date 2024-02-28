@@ -1,0 +1,10 @@
+V1: Release to HD Fixes Folder
+Please read the ReadMe Doc for info on how to use
+
+V1.1 Added ability to export AD UserNames
+
+V1.2 Took away choices, Added TextBox to enter name of AD Group
+Script will run once entered and open the excel file
+
+V1.3 CSV will now export right to desktop and open
+Note:This will overwrite the one already there if you have run this before
